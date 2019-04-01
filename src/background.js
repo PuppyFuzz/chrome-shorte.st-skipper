@@ -11,6 +11,7 @@ var requestFilter = {
     "http://festyy.com/*",
     "http://destyy.com/*",
     "http://ceesty.com/*",
+		"http://adf.ly/*",
 	]
 };
 
